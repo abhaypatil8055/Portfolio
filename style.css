@@ -54,7 +54,7 @@ hr {
 .logo {
     height: 80px;
     width: 88px;
-    background-image: url(images/profile-image.jpg);
+    background-image: url(profile-image.jpg);
     background-size: cover;
     border-radius: 47px;
     cursor: pointer;
@@ -88,7 +88,7 @@ hr {
 .hero {
     width: 1347px;
     height: 34rem;
-    background-image: url(images/common-bg.svg);
+    background-image: url(common-bg.svg);
     background-size: cover;
     background-repeat: no-repeat;
 }
